@@ -1,4 +1,4 @@
-app live:
+app live
 project-todolist2024.netlify.app
 # Getting Started with Create React App
 
